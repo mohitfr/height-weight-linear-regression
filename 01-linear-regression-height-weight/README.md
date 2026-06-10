@@ -8,10 +8,9 @@ Train a model to learn the relationship between weight and height, and evaluate 
 
 ## Dataset
 
-- **File:** `height-weight.csv`
-- **Feature (Input):** Weight
-- **Target (Output):** Height
-- **Source:** *(add source link if downloaded from somewhere)*
+- File: `height_weight_lr.csv`
+- Feature (Input): Weight
+- Target (Output): Height
 
 ## Workflow
 
@@ -28,9 +27,9 @@ Train a model to learn the relationship between weight and height, and evaluate 
 
 | Metric | Value |
 |--------|-------|
-| MSE | 109.7759 |
-| RMSE | 10.4774 |
-| R² | 0.7770 |
+| MSE | 15.8251 |
+| RMSE | 3.9781 |
+| R² | 0.9469 |
 
 ## How to Run
 

@@ -35,7 +35,6 @@ Train a model to learn the relationship between weight and height, and evaluate 
 
 ```bash
 cd 01-linear-regression-height-weight
-jupyter notebook linear_regression.ipynb
 ```
 
 ## Dependencies

@@ -7,6 +7,7 @@ A collection of machine learning projects built while learning. Each practical c
 | # | Project | Algorithm | Input | Output |
 |---|---------|-----------|-------|--------|
 | 01 | [Linear Regression — Weight vs Height](./01-linear-regression-height-weight) | Simple Linear Regression | Weight | Height |
+| 02 | [Ridge & Lasso Regression — Predicting FWI](./02-ridge-lasso-regression-algerian-forest-fire/) | Ridge, Lasso | Weather & Fire Indices | FWI |
 
 ## Tech Stack
 
@@ -32,6 +33,12 @@ ml-practicals/
 │   ├── linear_regression.ipynb
 │   ├── height-weight.csv
 │   ├── height_weight_lr.csv
+│   └── README.md
+├── 02-ridge-lasso-regression-algerian-forest-fire/
+│   ├── ridge_lasso_regression.ipynb
+│   ├──data_prep_and_eda.ipynb
+│   ├──algerian_forest_fires.csv
+│   ├──algerian_forest_fires_cleaned.csv
 │   └── README.md
 ├── .gitignore
 └── README.md
